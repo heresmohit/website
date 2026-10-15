@@ -1,0 +1,12 @@
+{
+  "name": "mohitgumber-portfolio",
+  "version": "1.0.0",
+  "description": "Simple personal portfolio for Mohit Gumber",
+  "scripts": {
+    "dev": "serve . -l 3000",
+    "start": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
